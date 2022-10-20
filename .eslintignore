@@ -1,0 +1,6 @@
+dist/
+node_modules/
+tsdoc-metadata.json
+
+
+.DS_Store

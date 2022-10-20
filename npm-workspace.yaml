@@ -1,0 +1,3 @@
+packages: 
+  - 'src/**' # 存放编写的组件的
+  - test
